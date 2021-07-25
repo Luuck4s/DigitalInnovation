@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // ======= Necessarios para a parte 1 do curso. =========
+
+    // Notar que essa API nao faz o programa rodar, apenas valida as annotations (pois sao so as especificacoes)
+    // https://mvnrepository.com/artifact/javax.persistence/javax.persistence-api
+    //compile group: 'javax.persistence', name: 'javax.persistence-api', version: '2.2'
+
+    // Drive JDBC que sera utilizado pelos frameworks que implementam o JPA
+    // https://mvnrepository.com/artifact/mysql/mysql-connector-java
+    compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.17'
+
+    // Implementacao EclipseLink
+    // https://mvnrepository.com/artifact/org.eclipse.persistence/eclipselink
+    //compile group: 'org.eclipse.persistence', name: 'eclipselink', version: '2.7.6'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+}
+
+test {
+    useJUnitPlatform()
+}
