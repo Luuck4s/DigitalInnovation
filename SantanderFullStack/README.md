@@ -16,6 +16,12 @@
 
 [:seedling: Introdução Spring Boot](https://github.com/Luuck4s/DigitalInnovation/tree/main/SantanderFullStack/IntroducaoSpringBoot)
 
+[:hammer: Introdução Angular](https://github.com/Luuck4s/DigitalInnovation/tree/main/SantanderFullStack/IntroducaoAngular)
+
+[:rotating_light: Técnicas Avançadas em Angular 8](https://github.com/Luuck4s/DigitalInnovation/tree/main/SantanderFullStack/TecnincasAvancadasAngular)
+
+[:boom: Aplicações Avançadas com Angular](https://github.com/Luuck4s/DigitalInnovation/tree/main/SantanderFullStack/AplicacoesAvancadasAngular)
+
 ### Projetos
 
 [:sparkles: Microsserviços Spring Cloud](https://github.com/Luuck4s/DigitalInnovation/tree/main/SantanderFullStack/MicrosservicosSpringCloud)
