@@ -30,6 +30,8 @@
 
 [:goal_net: Sistema de Gerencimento de Pessoas API REST](https://github.com/Luuck4s/DigitalInnovation/tree/main/SantanderFullStack/SistemaGerenciamentoPessoasApiRest)
 
+[:card_file_box: Gerenciador de Slas de Reuniões com Java e Angular](https://github.com/Luuck4s/DigitalInnovation/tree/main/SantanderFullStack/GerenciadorSalaReuniao)
+
 ---
 
 <h5  align="center"> 🚀 Santander FullStack by Luuck4s 💜 </h5>
